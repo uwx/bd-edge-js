@@ -1,0 +1,10 @@
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\bin\Release\netcoreapp1.0\bootstrap.deps.json
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\bin\Release\netcoreapp1.0\bootstrap.dll
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\bin\Release\netcoreapp1.0\bootstrap.pdb
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\bin\Release\netcoreapp1.0\EdgeJs.dll
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\bin\Release\netcoreapp1.0\EdgeJs.pdb
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\obj\Release\netcoreapp1.0\bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\obj\Release\netcoreapp1.0\bootstrap.AssemblyInfoInputs.cache
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\obj\Release\netcoreapp1.0\bootstrap.AssemblyInfo.cs
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\obj\Release\netcoreapp1.0\bootstrap.dll
+C:\Users\Rafael\AppData\Local\DiscordCanary\app-0.0.180\resources\app\node_modules\electron-edge-js\lib\bootstrap\obj\Release\netcoreapp1.0\bootstrap.pdb
